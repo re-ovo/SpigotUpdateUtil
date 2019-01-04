@@ -3,12 +3,12 @@
 
 **Dependency: Jsoup**   
 ```
- <dependency>
-            <groupId>org.jsoup</groupId>
-            <artifactId>jsoup</artifactId>
-            <version>1.11.3</version>
-            <scope>compile</scope>
-        </dependency>
+<dependency>
+   <groupId>org.jsoup</groupId>
+   <artifactId>jsoup</artifactId>
+   <version>1.11.3</version>
+   <scope>compile</scope>
+</dependency>
 ```
 **How to use it:**   
 1. Drag the java file to your project   
@@ -28,5 +28,5 @@
             }
         } catch (IOException e) {
             e.printStackTrace();
-        }
+ }
 ```
