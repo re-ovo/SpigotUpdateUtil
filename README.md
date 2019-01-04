@@ -1,7 +1,7 @@
 ## SpigotUpdateUtil
-#A spigot update util
+**A spigot update util**
 
-#Dependency: Jsoup   
+**Dependency: Jsoup**   
 ```
  <dependency>
             <groupId>org.jsoup</groupId>
@@ -9,14 +9,14 @@
             <version>1.11.3</version>
             <scope>compile</scope>
         </dependency>
-        ```
-#How to use it:   
+```
+**How to use it:**   
 1. Drag the java file to your project   
 2. Add the jsoup dependency to your pom.xml   
 3. Edit the resource id in the java file   
 4. Use it!   
 
-#Example:
+**Example:**
 ```
  try {
             List<Update> updates = UpdateUtil.getRecentUpdates();
