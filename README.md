@@ -1,5 +1,5 @@
-### SpigotUpdateUtil
-##A spigot update util
+## SpigotUpdateUtil
+#A spigot update util
 
 #Dependency: Jsoup   
 ```
@@ -29,4 +29,4 @@
         } catch (IOException e) {
             e.printStackTrace();
         }
- ```
+```
