@@ -17,7 +17,7 @@
 4. Use it!   
 
 **Example:**
-```
+```JAVA
  try {
             List<Update> updates = UpdateUtil.getRecentUpdates();
             for (Update update : updates) {
